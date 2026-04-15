@@ -12,7 +12,7 @@ Open to backend, fullstack, or software engineering roles.
 
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=python,java,cpp,js,html,css,php,assembly)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,java,c,cpp,c#,js,html,css,php,assembly)](https://skillicons.dev)
 
 **Frameworks & Libraries**
 
@@ -20,7 +20,7 @@ Open to backend, fullstack, or software engineering roles.
 
 **Databases**
 
-[![Databases](https://skillicons.dev/icons?i=mongodb,postgres,mysql)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite)](https://skillicons.dev)
 
 **Tools & DevOps**
 
@@ -71,8 +71,6 @@ Beyond standard software engineering, my ETF education gave me solid foundations
 ---
 
 ## 📊 GitHub Stats
-
-![Vladimir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vbogojevic5&show_icons=true&theme=dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vbogojevic5&layout=compact&theme=dark&hide_border=true)
 

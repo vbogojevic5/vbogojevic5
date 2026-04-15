@@ -12,7 +12,7 @@ Open to backend, fullstack, or software engineering roles.
 
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=python,java,c,cpp,c#,js,html,css,php,assembly)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,java,c,cpp,cs,js,html,css,php,assembly)](https://skillicons.dev)
 
 **Frameworks & Libraries**
 

@@ -72,7 +72,7 @@ Beyond standard software engineering, my ETF education gave me solid foundations
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vbogojevic5&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vbogojevic5&layout=compact&theme=dark&hide_border=true)
 
 ---
 
